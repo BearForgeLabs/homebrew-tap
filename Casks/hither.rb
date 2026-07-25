@@ -7,7 +7,7 @@
 # Drop the postflight once the app is Developer-ID signed + notarized.
 cask "hither" do
   version "0.2.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "ec3e7d966fe74de2373c480e926f90b2e2d293a6153eb637dd428b59388e051e"
 
   url "https://downloads.bearforgelabs.com/Hither-#{version}.dmg"
   name "Hither"
