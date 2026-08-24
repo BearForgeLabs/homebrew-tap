@@ -6,8 +6,8 @@
 # attribute — otherwise a direct-download DMG would hit Gatekeeper's "Open Anyway" wall.
 # Drop the postflight once the app is Developer-ID signed + notarized.
 cask "hither" do
-  version "0.2.0"
-  sha256 "ec3e7d966fe74de2373c480e926f90b2e2d293a6153eb637dd428b59388e051e"
+  version "0.3.1"
+  sha256 "3c55e05c594d9898ea733ed57c08b31cfcc62cc10e29aa77bb779359c65fa59e"
 
   url "https://downloads.bearforgelabs.com/Hither-#{version}.dmg"
   name "Hither"
