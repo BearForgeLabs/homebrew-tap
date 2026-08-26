@@ -15,7 +15,7 @@ cask "hither" do
   homepage "https://bearforgelabs.com"
 
   # Deployment target is macOS 14.0 (Sonoma).
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Hither.app"
 
